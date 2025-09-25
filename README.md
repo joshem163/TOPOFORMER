@@ -1,4 +1,3 @@
-# TOPOFORMER
 
 # TOPOLOGY, MEET ATTENTION: THE TOPOFORMER FOR GRAPH LEARNING
 Welcome to the **Topo-TR** repository! Topo-TR is an innovative machine learning framework designed for graph property prediction. It seamlessly integrates *topological data analysis (TDA)* with *transformer* architectures to enhance graph learning.
